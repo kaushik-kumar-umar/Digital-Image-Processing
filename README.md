@@ -16,7 +16,7 @@ To help understand how fundamental image operations work under the hood by build
 - Histogram Equalization
 - Wavelet Transformation
 - Tambola Tickets
-
+- Bit Slicing
 ---
 
 ## How to Run
