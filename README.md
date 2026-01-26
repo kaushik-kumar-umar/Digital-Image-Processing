@@ -17,6 +17,7 @@ To help understand how fundamental image operations work under the hood by build
 - Wavelet Transformation
 - Tambola Tickets
 - Bit Slicing
+- Shannon Fano & Huffman Coding
 ---
 
 ## How to Run
