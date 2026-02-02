@@ -1,5 +1,6 @@
 % created by- Kaushik Kumar Umar
 % date- 2/2/2026
+%Arithmetic encoding
 clc;
 clear all;
 close all;
@@ -54,4 +55,5 @@ disp("Arithmetic Coding Output:");
 fprintf("Final Lower Bound=%.10f\n",L);
 fprintf("Final Upper Bound=%.10f\n",H);
 fprintf("Encoded Tag Value=%.10f\n",code);
+
 %Displaying the final encoded value representing the entire sequence.
