@@ -1,5 +1,6 @@
 % created by- Kaushik Kumar Umar
 % date- 2/2/2026
+%JPEG compression
 
 clc;
 clear all;
@@ -73,4 +74,5 @@ title("Original Image");
 figure;
 imshow(reconstructed);
 title("Reconstructed Image After JPEG Compression");
+
 % Showing image after DCT-based JPEG compression.
