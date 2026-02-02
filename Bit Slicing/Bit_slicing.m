@@ -1,5 +1,6 @@
 %date - 21/01/2026 
 %created by - Kaushik Kumar Umar
+%Bit_slicing
 clc ;
 clear all;
 close all;
@@ -85,3 +86,4 @@ end
 figure;imshow(bitpr0);title('0th bit plane removed Image');
 figure;imshow(bitpr5);title('5th bit plane removed Image');
 figure;imshow(bitpr7);title('7th bit plane removed Image');
+
