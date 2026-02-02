@@ -18,6 +18,9 @@ To help understand how fundamental image operations work under the hood by build
 - Tambola Tickets
 - Bit Slicing
 - Shannon Fano & Huffman Coding
+- Hypothesis testing
+- Arithmetic Encoding
+- JPEG Compression
 ---
 
 ## How to Run
