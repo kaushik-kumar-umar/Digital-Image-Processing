@@ -21,6 +21,7 @@ To help understand how fundamental image operations work under the hood by build
 - Hypothesis testing
 - Arithmetic Encoding
 - JPEG Compression
+- LBP & convolution
 ---
 
 ## How to Run
